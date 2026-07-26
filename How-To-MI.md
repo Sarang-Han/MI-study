@@ -2,6 +2,8 @@
 
 원문: [How to Become a Mechanistic Interpretability Researcher](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher) (Neel Nanda, Alignment Forum)
 
+발행일: 2025년 9월 3일
+
 ## TL;DR
 
 - 이 글은 기계론적 해석가능성(mech interp) 연구를 **직접 하고 싶은** 사람에게 권하는 마음가짐과 과정에 관한 것이다. 명확한 방향 감각을 주는 것이 목표이므로, 의견이 뚜렷한 조언과 구체적인 권고를 제시한다.
@@ -46,4 +48,26 @@
 - 또한 요즘 내가 이 분야를 어떻게 바라보고 있는지, 그리고 생각이 바뀐 부분들에 대한 여러 생각을 밝힌다. 이 부분은 실용적 조언과 분리해 두었으니, 받아들이든 넘기든 자유롭게 하면 된다.
   - 신규 (2025년 12월 1일): [내가 연구에 취하고 있는 훨씬 더 실용적인 접근](https://neelnanda.io/vision)과 [우리가 유망하다고 보는 연구 방향](https://neelnanda.io/agenda)에 관한 관련 글들을 참고하라.
   - 다루는 내용: [내가 현재 이 분야를 어떻게 정의하는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Interlude__What_is_mech_interp_), 왜 [야심찬 리버스 엔지니어링에는 비관적이고 더 실용적인 접근에는 기대를 거는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#A_Pragmatic_Vision_for_Mech_Interp), [최근 어떤 연구에 흥미를 느끼는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#What_s_New_In_Mech_Interp_) 및 그 위에 무엇을 쌓아 올릴 것을 권하는지.
+
+## Introduction
+
+기계론적 해석가능성(mechanistic interpretability, mech interp)은 — 나의 지독히 편향된 견해로는 — 세상에서 가장 흥미진진한 연구 분야 중 하나다. 우리에겐 이해하지 못하는 엄청나게 복잡한 AI 모델들이 있는데, 그 안에 진짜 구조가 있다는 감질나는 신호들이 보인다. 이 구조를 부분적으로만 이해해도 온갖 가능성의 세계가 열리는데, 정작 머신러닝 연구자의 99%는 이 분야를 등한시하고 있다. 할 일이 정말 많다!
+
+Mech interp는 혼자서 배우기에 유별나게 쉬운 분야라고 생각한다. 교육 자료가 많고, 컴퓨팅 자원도 그리 많이 필요하지 않으며, 피드백 루프가 짧다. 하지만 처음 시작하는 사람에겐 꽤 막막하게 느껴질 수 있다. 이 글은 실력을 쌓고, 이 분야에 발을 들이고, 실제로 연구를 할 수 있는 수준에 도달하는 방법, 그리고 거기서 이 분야의 커리어나 학계 자리로 나아가는 방법에 대한 나의 최신 가이드다.
+
+이 가이드는 의도적으로 매우 의견이 뚜렷하다. 완벽하거나 폭넓은 개관을 주려는 것이 아니라, 잘 작동하리라 생각하는 생산적인 마음가짐과 구체적인 단계를 전달하고 방향 감각을 주는 것이 목표다. (그리고 링크의 상당수가 내 작업인 이유는 그게 내가 가장 잘 아는 것이기 때문이다. 미안!)
+
+### 큰 틀에서의 관점 (High-Level Framing)
+
+Mech interp에 입문하는 것에 대한 나의 핵심 철학은 이렇다: **절대적으로 최소한의 기본기만 최대한 빨리 익히고, 곧바로 연구를 하면서 배우는 쪽으로 전환하라.**
+
+목표는 연구에 손대기 전에 모든 논문을 읽는 것이 아니다. 연구를 하다 보면 빈틈이 보일 테고, 그때 돌아가서 더 배우면 된다. 하지만 프로젝트에 발을 딛고 있으면 학습을 이끌어 줄 방향이 훨씬 더 분명해지고, 지금 배우는 것이 왜 실제로 중요한지 맥락이 잡힌다. 필요한 건 자신이 무엇을 하는지 어느 정도 이해한 채로 프로젝트를 시작할 수 있을 만큼의 기반뿐이다.
+
+처음부터 연구의 질이나 완벽한 프로젝트 아이디어를 갖는 것에 스트레스받지 마라. [연구 안목(research taste)](https://www.alignmentforum.org/s/5GT3yoYM9gRmMEKqL/p/Ldrss6o3tiKT6NdMm)이나 우선순위를 정하는 능력 같은 핵심 스킬은 발전하는 데 시간이 걸린다. 경험을 쌓는 것은 — 설령 엉망인 경험이라도 — 실험을 어떻게 돌리고 해석하는지 같은 기본기를 가르쳐 주고, 그것이 다시 상위 수준의 스킬을 배우는 데 도움이 된다.
+
+나는 이것을 세 단계로 나눈다:
+
+1. [**기본기 익히기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_1__Learning_the_Ropes) — 기초를 넓이 우선(breadth-first)으로 훑고, 아무리 길어도 한 달 뒤에는 2단계로 넘어간다.
+2. [**미니 프로젝트로 연구 연습하기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_2__Practicing_Research_with_Mini_Projects) — 버려도 되는 1~5일짜리 연구 프로젝트를 한다. 피드백 루프가 가장 빠른 기초 연구 스킬을 연습하는 데 집중하고, 최고의 아이디어를 갖는다거나 글로 정리하는 것에는 스트레스받지 마라. 2~4주 뒤에는 3단계로 넘어간다.
+3. [**본격적인 프로젝트로 발전시키기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_3__Working_Up_To_Full_Research_Projects) — 1~2주 단위 스프린트로 작업한다. 매 스프린트가 끝나면 포스트모템을 하고 다른 것으로 전환하라. *단*, 아주 잘 되고 있고 탄력이 붙었다면 예외다. 결국에는 더 장기적인 무언가를 하게 될 것이다. 더 깊은 스킬과 연구자의 마음가짐에 대해 생각하기 시작하고, 좋은 아이디어를 내는 연습을 하며, 잘 풀린 스프린트는 좋은 공개 결과물로 정리하는 것을 우선하라.
 
