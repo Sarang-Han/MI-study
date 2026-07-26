@@ -10,44 +10,44 @@
   - Mech interp는 레버리지가 크고 임팩트가 있으며, 짧은 피드백 루프와 적당한 수준의 컴퓨팅 자원만으로 혼자서도 배울 수 있다.
   - **최소한의 기본기만 익힌 뒤, 곧바로 연구를 시작하라.** Mech interp는 경험 과학이다.
 - 세 단계:
-  - [**기본기 익히기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_1__Learning_the_Ropes) **(1개월 이내)** — 필수 요소를 넓이 우선(breadth-first)으로 학습한다.
-  - [**미니 프로젝트로 연구를 배우기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_2__Practicing_Research_with_Mini_Projects) — 1~5일짜리 미니 프로젝트로 기초 연구 스킬을 연습하고, 빠른 피드백 루프 스킬에 집중한다.
-  - [**본격적인 프로젝트로 발전시키기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_3__Working_Up_To_Full_Research_Projects) — 1~2주짜리 연구 스프린트를 하고, 그중 가장 좋은 것을 이어간다. 더 깊은 스킬과 훌륭한 연구자의 마음가짐을 탐색한다.
-- [**1단계:**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_1__Learning_the_Ropes) **기본기 익히기**
+  - [**기본기 익히기**](#stage-1-learning-the-ropes-기본기-익히기) **(1개월 이내)** — 필수 요소를 넓이 우선(breadth-first)으로 학습한다.
+  - [**미니 프로젝트로 연구를 배우기**](#stage-2-practicing-research-with-mini-projects-미니-프로젝트로-연구-연습하기) — 1~5일짜리 미니 프로젝트로 기초 연구 스킬을 연습하고, 빠른 피드백 루프 스킬에 집중한다.
+  - [**본격적인 프로젝트로 발전시키기**](#stage-3-working-up-to-full-research-projects-본격적인-프로젝트로-발전시키기) — 1~2주짜리 연구 스프린트를 하고, 그중 가장 좋은 것을 이어간다. 더 깊은 스킬과 훌륭한 연구자의 마음가짐을 탐색한다.
+- [**1단계:**](#stage-1-learning-the-ropes-기본기-익히기) **기본기 익히기**
   - **깊이보다 넓이. 완벽함이 아니라 괜찮은 기준선을 확보하라.**
-  - **기초 학습**: [트랜스포머를 밑바닥부터 코딩해 보기](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Machine_Learning___Transformer_Basics), [핵심 mech interp 기법들](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Mechanistic_Interpretability_Techniques), [분야 전반의 지형](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Using_LLMs_for_Learning), [선형대수 직관](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Machine_Learning___Transformer_Basics), [mech interp 코드 작성법](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Mechanistic_Interpretability_Coding___Tooling) ([ARENA가 좋은 친구다](https://arena-chapter1-transformer-interp.streamlit.app/))
+  - **기초 학습**: [트랜스포머를 밑바닥부터 코딩해 보기](#머신러닝--트랜스포머-기초-machine-learning--transformer-basics), [핵심 mech interp 기법들](#기계론적-해석가능성-기법들-mechanistic-interpretability-techniques), [분야 전반의 지형](#학습에-llm-활용하기-using-llms-for-learning), [선형대수 직관](#머신러닝--트랜스포머-기초-machine-learning--transformer-basics), [mech interp 코드 작성법](#mech-interp-코딩--툴링-mechanistic-interpretability-coding--tooling) ([ARENA가 좋은 친구다](https://arena-chapter1-transformer-interp.streamlit.app/))
   - **직접 손을 더럽혀라**: 읽기만 해서는 *안 된다*. Mech interp는 근본적으로 경험 과학이다.
   - **한 달이 지나면 다음으로 넘어가라.** "다 됐다"는 느낌이나 기본기를 *전부* 다뤘다는 느낌을 기대하지 말고, 필요할 때 더 배워라. 뭔가 진짜를 시작하지 않으면 훌륭한 연구 통찰과 마주칠 일도 없다.
-  - [**LLM을 적극적으로 활용하라**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Using_LLMs_for_Learning) — 완벽하진 않지만, 지금의 당신보다 mech interp를 더 잘한다! (제대로 쓴다면) 결정적인 학습 도구다.
-- [**연구 과정 뜯어보기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#The_Big_Picture__Learning_the_Craft_of_Research):
-  - [스킬은 여러 가지가 있고](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Unpacking_the_Research_Process), 피드백 루프의 길이로 분류하면 좋다.
+  - [**LLM을 적극적으로 활용하라**](#학습에-llm-활용하기-using-llms-for-learning) — 완벽하진 않지만, 지금의 당신보다 mech interp를 더 잘한다! (제대로 쓴다면) 결정적인 학습 도구다.
+- [**연구 과정 뜯어보기**](#the-big-picture-연구라는-기예를-배우기-learning-the-craft-of-research):
+  - [스킬은 여러 가지가 있고](#연구-과정-뜯어보기-unpacking-the-research-process), 피드백 루프의 길이로 분류하면 좋다.
     - 빠른 스킬(수 분~수 시간): 실험 작성/실행/디버깅 등
     - 느린 스킬(수 주): 우선순위 정하기, 언제 방향을 틀지 판단하기 등
     - 매우 느린 스킬(수 개월): 좋은 연구 아이디어 만들어내기 등
   - **모든 스킬을 한꺼번에 배우려 하지** ***마라***. 빠른/중간 속도의 스킬에 먼저 집중하고, 천천히 범위를 넓혀라.
   - [연구의 4단계](https://www.alignmentforum.org/posts/hjMy4ZxS5ogA9cTYK/how-i-think-about-my-research-process-explore-understand): 아이디어 찾기(**ideation**) → 직관과 감 쌓기(**exploration**) → 가설 검증하기(**understanding**) → 다듬고 글로 정리하기(**distillation**)
-- [**2단계:**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_2__Practicing_Research_with_Mini_Projects) **미니 프로젝트** (각 1~5일, 총 2~4주)
-  - [탐색(exploration) 마음가짐](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Practicing_Exploration): **단위 시간당 정보 획득량을 최대화하라.** 막혔을 때 빠져나오는 법을 익혀라. 배우고 있기만 하다면 계획이 없어도 괜찮다.
-  - [이해(understanding) 마음가짐](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Practicing_Understanding): **모든 연구 결과는 반증되기 전까지 거짓이다.** 결과가 흥미로울수록 거짓일 가능성이 높다. 스스로가 자신의 가장 혹독한 비판자가 되어라.
+- [**2단계:**](#stage-2-practicing-research-with-mini-projects-미니-프로젝트로-연구-연습하기) **미니 프로젝트** (각 1~5일, 총 2~4주)
+  - [탐색(exploration) 마음가짐](#탐색-연습하기-practicing-exploration): **단위 시간당 정보 획득량을 최대화하라.** 막혔을 때 빠져나오는 법을 익혀라. 배우고 있기만 하다면 계획이 없어도 괜찮다.
+  - [이해(understanding) 마음가짐](#이해-연습하기-practicing-understanding): **모든 연구 결과는 반증되기 전까지 거짓이다.** 결과가 흥미로울수록 거짓일 가능성이 높다. 스스로가 자신의 가장 혹독한 비판자가 되어라.
   - 아이디어의 질(ideation)과 글쓰기(distillation)는 아직 우선순위가 아니다. **안목과 우선순위 판단은 직접 해보면서 배우는 것이다.**
-  - 좋은 연구 아이디어를 갖는 법은 익히는 데 아주 오래 걸리므로, **초기 프로젝트를 고를 땐 편법을 써라!** [범위가 잘 잡힌 프로젝트를 골라라](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Choose_A_Project) — 예: 기존 논문 확장하기(아이디어).
-  - [**LLM을 적극적으로 활용하라**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Using_LLMs_for_Research_Code) — 제대로 쓸 줄 안다면 연구와 코딩 속도를 *크게* 높여줄 것이다.
-- [**3단계:**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_3__Working_Up_To_Full_Research_Projects) **본격적인 프로젝트로**
+  - 좋은 연구 아이디어를 갖는 법은 익히는 데 아주 오래 걸리므로, **초기 프로젝트를 고를 땐 편법을 써라!** [범위가 잘 잡힌 프로젝트를 골라라](#프로젝트-고르기-choose-a-project) — 예: 기존 논문 확장하기(아이디어).
+  - [**LLM을 적극적으로 활용하라**](#연구-코드에-llm-활용하기-using-llms-for-research-code) — 제대로 쓸 줄 안다면 연구와 코딩 속도를 *크게* 높여줄 것이다.
+- [**3단계:**](#stage-3-working-up-to-full-research-projects-본격적인-프로젝트로-발전시키기) **본격적인 프로젝트로**
   - **1~2주 단위 스프린트로 작업하고**, 매 스프린트 후 포스트모템을 하라. *아주 잘* 되고 있는 게 아니라면 다른 프로젝트로 전환하라.
-  - [**더 느린 스킬들**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Deepening_Your_Skills)**과** [**핵심 마음가짐**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Key_Research_Mindsets): 신중한 회의주의, 문헌에 대한 인식, 우선순위 설정, 높은 생산성.
-  - [**화려한 과학이 아니라**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Doing_Good_Science) **좋은 과학을 하라** — 한계를 솔직히 밝히고, 체리피킹이 아님을 증명하고, 자기 데이터를 읽고, 효과가 있는 단순한 방법을 쓰고, 진짜 베이스라인을 사용하라.
-  - 자신의 작업을 [**글로 정리하라**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Write_up_your_work_)! 하나의 서사로 압축한 뒤, 반복적으로 확장해 글로 완성하라.
-    - **공개된 좋은 결과물이** [**최고의 자격증명**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Why_aim_for_public_output_)**이다** — 커리어, 박사과정, 멘토 찾기 등 모든 면에서.
-    - **글쓰기는 뒷전의 일이 아니다** — 시간을 확보하라. [독자는 당신 생각보다 훨씬 적게 이해한다.](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Common_mistakes)
-  - [**연구 아이디어 생성**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Practicing_Ideation)**을 연습하라.** 가능하다면 [멘토의 연구 안목](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Research_Taste_Exercises)을 모방 학습(imitation learning)하려 해보라.
-    - [유행은 피하고](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Avoiding_Fads), [mech interp에서 무엇이 새롭고 흥미로운지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#What_s_New_In_Mech_Interp_)를 생각하라.
-- [**멘토에게 먼저 적극적으로 연락하라.**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Advice_on_finding_a_mentor) 좋은 멘토가 있으면 모든 것이 *훨씬* 쉬워진다. 콜드 이메일을 보내고, 멘토링 프로그램에 지원하라.
+  - [**더 느린 스킬들**](#스킬-심화하기-deepening-your-skills)**과** [**핵심 마음가짐**](#핵심-연구-마음가짐-key-research-mindsets): 신중한 회의주의, 문헌에 대한 인식, 우선순위 설정, 높은 생산성.
+  - [**화려한 과학이 아니라**](#좋은-과학-하기-doing-good-science) **좋은 과학을 하라** — 한계를 솔직히 밝히고, 체리피킹이 아님을 증명하고, 자기 데이터를 읽고, 효과가 있는 단순한 방법을 쓰고, 진짜 베이스라인을 사용하라.
+  - 자신의 작업을 [**글로 정리하라**](#작업을-글로-정리하라-write-up-your-work)! 하나의 서사로 압축한 뒤, 반복적으로 확장해 글로 완성하라.
+    - **공개된 좋은 결과물이** [**최고의 자격증명**](#왜-공개-결과물을-목표로-하는가-why-aim-for-public-output)**이다** — 커리어, 박사과정, 멘토 찾기 등 모든 면에서.
+    - **글쓰기는 뒷전의 일이 아니다** — 시간을 확보하라. [독자는 당신 생각보다 훨씬 적게 이해한다.](#흔한-실수-common-mistakes)
+  - [**연구 아이디어 생성**](#아이디에이션-연습하기-practicing-ideation)**을 연습하라.** 가능하다면 [멘토의 연구 안목](#연구-안목-훈련법-research-taste-exercises)을 모방 학습(imitation learning)하려 해보라.
+    - [유행은 피하고](#유행-피하기-avoiding-fads), [mech interp에서 무엇이 새롭고 흥미로운지](#mech-interp에서-새로운-것은-무엇인가-whats-new-in-mech-interp)를 생각하라.
+- [**멘토에게 먼저 적극적으로 연락하라.**](#멘토를-찾는-방법에-대한-조언-advice-on-finding-a-mentor) 좋은 멘토가 있으면 모든 것이 *훨씬* 쉬워진다. 콜드 이메일을 보내고, 멘토링 프로그램에 지원하라.
   - 가장 유명한 연구자가 아니라, 시간을 낼 수 있는 연구자에게 연락하라.
-- **커리어:** 이 분야에서 일하고 싶다면, 지원하라! [일자리](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Where_to_apply), [멘토링 프로그램](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Mentoring_programs), [연구비](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Applying_for_grants), [학계 연구실](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Relevant_Academic_Labs).
-  - 보너스: [채용 담당자는 무엇을 보는가](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#What_do_hiring_managers_look_for), [좋은 연구 멘토는 실제로 무슨 일을 하는가](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#So_what_does_a_research_mentor_actually_do_), 그리고 [박사과정을 해야 할까](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Should_you_do_a_PhD_)?
+- **커리어:** 이 분야에서 일하고 싶다면, 지원하라! [일자리](#어디에-지원할-것인가-where-to-apply), [멘토링 프로그램](#멘토링-프로그램-mentoring-programs), [연구비](#연구비-지원하기-applying-for-grants), [학계 연구실](#관련-학계-연구실-relevant-academic-labs).
+  - 보너스: [채용 담당자는 무엇을 보는가](#채용-담당자는-무엇을-보는가-what-do-hiring-managers-look-for), [좋은 연구 멘토는 실제로 무슨 일을 하는가](#그래서-연구-멘토는-실제로-무슨-일을-하는가-so-what-does-a-research-mentor-actually-do), 그리고 [박사과정을 해야 할까](#박사과정을-해야-할까-should-you-do-a-phd)?
 - 또한 요즘 내가 이 분야를 어떻게 바라보고 있는지, 그리고 생각이 바뀐 부분들에 대한 여러 생각을 밝힌다. 이 부분은 실용적 조언과 분리해 두었으니, 받아들이든 넘기든 자유롭게 하면 된다.
   - 신규 (2025년 12월 1일): [내가 연구에 취하고 있는 훨씬 더 실용적인 접근](https://neelnanda.io/vision)과 [우리가 유망하다고 보는 연구 방향](https://neelnanda.io/agenda)에 관한 관련 글들을 참고하라.
-  - 다루는 내용: [내가 현재 이 분야를 어떻게 정의하는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Interlude__What_is_mech_interp_), 왜 [야심찬 리버스 엔지니어링에는 비관적이고 더 실용적인 접근에는 기대를 거는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#A_Pragmatic_Vision_for_Mech_Interp), [최근 어떤 연구에 흥미를 느끼는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#What_s_New_In_Mech_Interp_) 및 그 위에 무엇을 쌓아 올릴 것을 권하는지.
+  - 다루는 내용: [내가 현재 이 분야를 어떻게 정의하는지](#interlude-mech-interp란-무엇인가-what-is-mech-interp), 왜 [야심찬 리버스 엔지니어링에는 비관적이고 더 실용적인 접근에는 기대를 거는지](#mech-interp를-위한-실용주의적-비전-a-pragmatic-vision-for-mech-interp), [최근 어떤 연구에 흥미를 느끼는지](#mech-interp에서-새로운-것은-무엇인가-whats-new-in-mech-interp) 및 그 위에 무엇을 쌓아 올릴 것을 권하는지.
 
 ## Introduction
 
@@ -67,9 +67,9 @@ Mech interp에 입문하는 것에 대한 나의 핵심 철학은 이렇다: **�
 
 나는 이것을 세 단계로 나눈다:
 
-1. [**기본기 익히기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_1__Learning_the_Ropes) — 기초를 넓이 우선(breadth-first)으로 훑고, 아무리 길어도 한 달 뒤에는 2단계로 넘어간다.
-2. [**미니 프로젝트로 연구 연습하기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_2__Practicing_Research_with_Mini_Projects) — 버려도 되는 1-5일짜리 연구 프로젝트를 한다. 피드백 루프가 가장 빠른 기초 연구 스킬을 연습하는 데 집중하고, 최고의 아이디어를 갖는다거나 글로 정리하는 것에는 스트레스받지 마라. 2-4주 뒤에는 3단계로 넘어간다.
-3. [**본격적인 프로젝트로 발전시키기**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_3__Working_Up_To_Full_Research_Projects) — 1~2주 단위 스프린트로 작업한다. 매 스프린트가 끝나면 포스트모템을 하고 다른 것으로 전환하라. *단*, 아주 잘 되고 있고 탄력이 붙었다면 예외다. 결국에는 더 장기적인 무언가를 하게 될 것이다. 더 깊은 스킬과 연구자의 마음가짐에 대해 생각하기 시작하고, 좋은 아이디어를 내는 연습을 하며, 잘 풀린 스프린트는 좋은 공개 결과물로 정리하는 것을 우선하라.
+1. [**기본기 익히기**](#stage-1-learning-the-ropes-기본기-익히기) — 기초를 넓이 우선(breadth-first)으로 훑고, 아무리 길어도 한 달 뒤에는 2단계로 넘어간다.
+2. [**미니 프로젝트로 연구 연습하기**](#stage-2-practicing-research-with-mini-projects-미니-프로젝트로-연구-연습하기) — 버려도 되는 1-5일짜리 연구 프로젝트를 한다. 피드백 루프가 가장 빠른 기초 연구 스킬을 연습하는 데 집중하고, 최고의 아이디어를 갖는다거나 글로 정리하는 것에는 스트레스받지 마라. 2-4주 뒤에는 3단계로 넘어간다.
+3. [**본격적인 프로젝트로 발전시키기**](#stage-3-working-up-to-full-research-projects-본격적인-프로젝트로-발전시키기) — 1~2주 단위 스프린트로 작업한다. 매 스프린트가 끝나면 포스트모템을 하고 다른 것으로 전환하라. *단*, 아주 잘 되고 있고 탄력이 붙었다면 예외다. 결국에는 더 장기적인 무언가를 하게 될 것이다. 더 깊은 스킬과 연구자의 마음가짐에 대해 생각하기 시작하고, 좋은 아이디어를 내는 연습을 하며, 잘 풀린 스프린트는 좋은 공개 결과물로 정리하는 것을 우선하라.
 
 ## Stage 1: Learning the Ropes (기본기 익히기)
 
@@ -79,7 +79,7 @@ Mech interp에 입문하는 것에 대한 나의 핵심 철학은 이렇다: **�
 
 **논문만 읽고 있지 마라.** 학구적인 성향의 사람들이 흔히 저지르는 실수가, 코드를 쓰기 전에 손에 잡히는 모든 논문을 몇 달씩 읽는 것이다. 그러지 마라. Mech interp는 경험 과학이고, 직접 손을 더럽혀야 학습에 필요한 핵심 맥락이 생긴다. 논문 읽기와 코딩 튜토리얼·소규모 탐색 연구를 번갈아 가며 하라. 아주 작은 탐색적 프로젝트가 어떤 모습인지 감을 잡으려면 [내 연구 워크스루 영상들](https://www.youtube.com/playlist?list=PL7m7hLIqA0hr4dVOgjNwP2zjQGVHKeB7T)을 보라.
 
-LLM은 핵심 도구다 — 잘 쓰는 법에 대한 조언은 [아래 섹션](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Using_LLMs_for_Learning)을 참고하라.
+LLM은 핵심 도구다 — 잘 쓰는 법에 대한 조언은 [아래 섹션](#학습에-llm-활용하기-using-llms-for-learning)을 참고하라.
 
 ### 머신러닝 & 트랜스포머 기초 (Machine Learning & Transformer Basics)
 
@@ -208,7 +208,7 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 
 ## Interlude: Mech interp란 무엇인가? (What is mech interp?)
 
-*[**그래서 다음에 뭘 해야 하나**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#The_Big_Picture__Learning_the_Craft_of_Research) 부분으로 건너뛰어도 좋다.*
+*[**그래서 다음에 뭘 해야 하나**](#the-big-picture-연구라는-기예를-배우기-learning-the-craft-of-research) 부분으로 건너뛰어도 좋다.*
 
 이쯤에서 mech interp가 *실제로* 무엇인지 짚어볼 만하다. 우리는 대체 여기서 뭘 하고 있는가? 기계론적 해석가능성을 정확히 어떻게 정의할지에 대한 합의된 정의는 없고, 연구자마다 아주 다른 견해를 낼 것이다. 하지만 *내* 작업 정의는 다음과 같다[^979wnkvgpa4].
 
@@ -224,7 +224,7 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 이 프레이밍에서 나오는 함의 몇 가지를 짚어두면:
 
 - 나의 궁극적인 **북극성은 실용주의**다 — (신뢰할 수 있게) 유용할 만큼의 이해를 달성하는 것. "모델을 완전히 리버스 엔지니어링한다" 같은 하위 목표는 수단일 뿐이다.
-  - 최근 몇 년간 내 연구 우선순위에서 일어난 큰 변화 중 하나는 **리버스 엔지니어링이 올바른 목표가 아니라**는 결론에 이른 것이다. 대신 내부를 이용해 유용한 일을 할 수 있게 해주는 실용적인 작업을 더 직접적으로 시도해야 한다고 생각한다. 이 변화는 [뒤에서](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#A_Pragmatic_Vision_for_Mech_Interp) 더 논한다.
+  - 최근 몇 년간 내 연구 우선순위에서 일어난 큰 변화 중 하나는 **리버스 엔지니어링이 올바른 목표가 아니라**는 결론에 이른 것이다. 대신 내부를 이용해 유용한 일을 할 수 있게 해주는 실용적인 작업을 더 직접적으로 시도해야 한다고 생각한다. 이 변화는 [뒤에서](#mech-interp를-위한-실용주의적-비전-a-pragmatic-vision-for-mech-interp) 더 논한다.
 - 이것은 **넓은 정의**다. 역사적으로 이 분야는 모델의 야심찬 리버스 엔지니어링 같은 더 구체적인 아젠다에 집중해 왔다. 하지만 우리 스스로를 제한해서는 안 된다고 생각한다. 중요하면서도 등한시된 다른 방향이 많고, 이 분야는 넓은 영역을 다룰 만큼 충분히 크다[^3zw26zes9dx].
 - 이것은 내부를 *사용하는* 것이 아니라 **이해하는** 것에 관한 것이다. 조종 벡터 같은 모델 내부 기법은 모델의 행동을 조형하는 데 유용할 수 있지만, 프롬프팅이나 파인튜닝 같은 강력한 방법들과 경쟁해야 한다. ML에서 이해를 달성할 수 있는 영역은 극히 드물다.
 - **순수주의자가 되지 마라.** 내부를 쓰는 것은 목적을 위한 수단이다. 블랙박스 방법이 올바른 도구라면 그걸 써라.
@@ -243,7 +243,7 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 
 참고: 1단계에서 2단계로 갈 때와 달리, 2단계에서 3단계로의 전환은 더 큰 프로젝트를 맡고 더 야심차게 되어가면서 꽤 점진적으로 일어나야 한다. 2단계에서 3~4주 정도 뒤가 좋은 기본값이겠지만, 거창한 공식적 전환이 있을 필요는 없다.
 
-**멘토십:** 좋은 멘토는 강력한 가속기이며, 멘토를 찾는 것이 당신의 주요 우선순위여야 한다. 커리어 섹션에서 [좋은 멘토를 찾는 방법](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Advice_on_finding_a_mentor)과 [멘토가 구체적으로 어떤 가치를 더해줄 수 있는지](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#So_what_does_a_research_mentor_actually_do_)에 대한 조언을 제공한다. 이 글의 나머지 부분은 대부분 멘토가 없다고 가정하고 쓰되, 적절한 곳에서 멘토를 활용하는 방법을 짚어두겠다.
+**멘토십:** 좋은 멘토는 강력한 가속기이며, 멘토를 찾는 것이 당신의 주요 우선순위여야 한다. 커리어 섹션에서 [좋은 멘토를 찾는 방법](#멘토를-찾는-방법에-대한-조언-advice-on-finding-a-mentor)과 [멘토가 구체적으로 어떤 가치를 더해줄 수 있는지](#그래서-연구-멘토는-실제로-무슨-일을-하는가-so-what-does-a-research-mentor-actually-do)에 대한 조언을 제공한다. 이 글의 나머지 부분은 대부분 멘토가 없다고 가정하고 쓰되, 적절한 곳에서 멘토를 활용하는 방법을 짚어두겠다.
 
 ### 연구 과정 뜯어보기 (Unpacking the Research Process)
 
@@ -390,7 +390,7 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 
 ## Interlude: 기계론적 해석가능성의 새로운 흐름 (What's New In Mechanistic Interpretability?)
 
-*[**그래서 다음에 뭘 해야 하나**](https://www.alignmentforum.org/posts/jP9KDyMkchuv6tHwm/how-to-become-a-mechanistic-interpretability-researcher#Stage_3__Working_Up_To_Full_Research_Projects) 부분으로 건너뛰어도 좋다.*
+*[**그래서 다음에 뭘 해야 하나**](#stage-3-working-up-to-full-research-projects-본격적인-프로젝트로-발전시키기) 부분으로 건너뛰어도 좋다.*
 
 기계론적 해석가능성에서는 상황이 빠르게 변한다. 멀찍이서 따라오던 신규 진입자들은 대개 꽤 낡은 정보를 갖고 있다. 여기 내가 생각하는, 알아야 할 것들을 적어둔다. 물론 이번에도 내 의견과 편향을 거친 것이다.
 
@@ -456,6 +456,350 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 
 어떤 면에서 이것은 오히려 해석가능성이 결국 AGI 안전성에 유용할 것이라는 데 대해 나를 더 낙관적으로 만들었다! 야심찬 리버스 엔지니어링은 멋졌겠지만 애초에 승산이 낮은 도박이었다. 하지만 기계론적 해석가능성에 대한 실용주의적 접근에서는 진짜 결과들을 봤고, 다른 방법으로는 달성하기 어려운 진짜로 유용한 일들을 우리가 해낼 수 있으리라 꽤 확신한다.
 
+## Stage 3: Working Up To Full Research Projects (본격적인 프로젝트로 발전시키기)
+
+미니 프로젝트를 몇 개 끝냈다면 이제 더 야심차게 가기 시작해야 한다. 더 깊은 (중간/느린) 스킬을 얻는 것을 생각하고, 아이디에이션과 증류를 탐색해 보라.
+
+다만 프로젝트는 여전히 자주 실패할 것이라 예상해야 하고, 깊이보다 넓이 쪽으로 기울어야 하며, 차마 포기하지 못하는 실패한 프로젝트에 발이 묶이는 것을 피해야 한다. 이 긴장을 해소하기 위해 **1~2주 단위 스프린트로 작업하기**를 권한다. 각 스프린트가 끝날 때 돌아보고 의도적인 결정을 내려라. **계속할 것인가, 방향을 틀 것인가?** 프로젝트가 정말로 유망하게 느껴지지 않는 한 기본값은 방향 전환이어야 한다. 시간을 더 잘 쓸 수 있게 된다면 무언가를 포기하는 건 훌륭한 일이다! 하지만 아주 잘 되고 있다면 얼마든지 계속하라.
+
+이 전략대로 하면 *좋은* 것을 찾았을 때 결국 더 장기적인 무언가를 하게 되지만, 처음 시도한 야심찬 아이디어에 그냥 발이 묶이지는 않게 될 것이다.
+
+앞에서 정리한 스킬 목록을 다시 훑어보면서 각 항목마다 자신이 얼마나 잘 하고 있다고 느끼는지, 그리고 다음 프로젝트에서 그것을 어떻게 의도적으로 연습할 수 있을지 잠깐씩 돌아보기를 권한다. 그리고 각 스프린트가 끝난 뒤 방향 전환 여부를 결정하기 전에, 한두 시간을 들여 포스트모템을 하라. 무엇을 배웠는가, 어떤 스킬에서 어떤 진전을 냈는가, 다음엔 무엇을 다르게 하겠는가? 당신의 목표는 배우는 것이고, 축적된 데이터를 실제로 소화할 시간을 낼 때 훨씬 잘 배운다!
+
+### 핵심 연구 마음가짐 (Key Research Mindsets)
+
+학습을 쪼개는 한 가지 방법은 연구 마음가짐을 생각해 보는 것이다. 좋은 연구자가 갖춰야 하는, 여러 단계를 가로지르는 특질과 마음가짐 말이다. 더 자세한 내용은 [이 주제에 대한 내 블로그 글](https://www.alignmentforum.org/posts/cbBwwm4jW6AZctymL/my-research-process-key-mindsets-truth-seeking)을 보되, 여기 내가 요즘 이것을 어떻게 생각하는지 간단히 적어둔다.
+
+- **회의주의/진실 추구(Skepticism/Truth-seeking):** 세상의 기본 상태는 당신의 연구가 거짓이라는 것이다. 연구는 어렵기 때문이다. 당신의 북극성은 언제나 *참인* 통찰을 찾는 것이어야 한다.[^lm5ixkfuzk]
+  - 자기 작업이 거짓일 수 있는 모든 경로를 끊임없이 공격적으로 생각하고 그것을 성실히 검증하려 애쓰는 일은, 대체로 사람에게 자연스럽게 오지 않는다. 더 잘하도록 배울 수는 있지만 대개 연습이 필요하다.
+  - 이것은 이해(understanding)에서 결정적이고, 탐색에서는 어느 정도 중요하며, 증류에서 다시 결정적이다.
+  - 흔한 실수는 "긍정적" 결과를 찾겠다고 지푸라기를 붙잡는 것이다. 그것 말고는 공유할 가치가 없다고 생각하면서 말이다.
+    - 내 생각에, 잘 분석된 부정적 결과나 결론이 나지 않은 결과가 빈약하게 뒷받침된 긍정적 결과보다 훨씬 낫다. 나는 미묘한 부정적 결과를 기꺼이 공개하는 사람을 좋게 보고, 자기 결과를 실제보다 좋은 척하는 사람을 나쁘게 본다.
+- **우선순위 설정(Prioritization):** 당신의 시간은 희소하다. 연구는 본질적으로 고차원 공간을 탐색하는 결정을 잔뜩 내리는 일이다. 훌륭한 연구자와 평범한 연구자의 차이는 이 결정들을 잘 내릴 수 있는가에 있다.
+  - 좋은 멘토가 있다면 처음에는 그에게 기댈 수 있지만, 결국은 스스로 하는 법을 배워야 한다.
+  - 이것은 탐색과 아이디에이션에서 절대적으로 결정적이며, 전 과정에 걸쳐 상당히 중요하다.
+  - 이걸 배우는 좋은 방법은 스프린트 포스트모템처럼 사후에 자기가 내린 결정을 돌아보면서, 어떻게 하면 더 잘 결정할 수 있었을지, 미래로 가져갈 일반화 가능한 교훈은 무엇인지 생각해 보는 것이다.
+- **생산성(Productivity)**[^idab8074tka]**:** 내가 함께 일해 본 최고의 연구자들은 그냥 잘하는 연구자들보다 두 배 넘게 많은 일을 해낸다. 일부는 좋은 연구 안목과 좋은 우선순위 결정 덕분이지만, 일부는 그냥 일을 해치우는 데 능한 것이다.
+  - 이건 아주 긴 시간 일하면서 번아웃 직전까지 자신을 몰아붙이라는 뜻이 아니다. 대충 하고 엉성하게 하라는 뜻도 아니다. 이것은 장기적으로 적분한 생산성에 관한 것이다.
+    - 예컨대 때로는 가장 생산적인 일이, 작업 시작을 잠시 미루고 5분 타이머를 맞춘 뒤 다음에 할 만한 것들을 브레인스토밍하고 그중 최선을 고르는 것이다.
+  - 이것은 여러 형태로 나타나며, 당신에게 가장 우선순위가 높은 것은:
+    - 나중에 디버깅으로 시간을 낭비하지 않도록 버그 없는 좋은 코드를 써야 할 때와, 그냥 돌아가기만 하는 대충 짠 것을 써야 할 때를 아는 것.
+    - 코딩할 때 빠르게 움직이도록 적절한 키보드 단축키를 아는 것.
+    - 언제 도움을 청해야 하는지 알고, 적절할 때 막힘을 풀어줄 수 있는 사람들을 확보하는 것.
+    - 시간과 할 일을 잘 관리해서, 가장 우선순위가 높은 일이 무엇인지 결정하고 나면 실제로 가서 그 일을 하는 것.
+    - 핵심 문제에 깊이 몰입할 시간을 낼 수 있는 것.
+  - 연습: 가끔 **자기 시간을 감사(audit)하라**. [Toggl](http://toggl.com) 같은 도구로 하루 이틀 동안 무엇을 하고 있는지 기록한 뒤 돌아보라. 시간은 어디로 갔는가? 무엇이 비효율적이었나? 다음엔 이걸 어떻게 10% 더 빨리 할 수 있을까?
+    - 목표는 죄책감을 느끼는 게 아니라, 지루한 작업을 위한 유틸리티 함수를 만드는 것 같은 개선 기회를 포착하는 것이다.
+- **문헌 알기(Knowing the literature):** 이 시점이면 mech interp 안팎의 선행 논문들에 축적된 지혜가 (그리고 헛소리도) 많이 쌓여 있다.
+  - 이것은 모든 단계를 가로지른다:
+    - 아이디에이션에서는 실수로 바퀴를 재발명하고 싶지 않을 것이다. 그리고 훌륭한 아이디어는 선행 연구에서 영감을 받는 경우가 많다.
+    - 탐색에서는 연결을 포착하고 흥미로운 기법을 빌려오는 등의 일을 할 수 있어야 한다.
+    - 이해에서는 확인해야 할 올바른 증명 기준, 쓸 수 있는 최선의 기법, (다른 연구에서 제기되었을 수도 있는) 대안 가설 등을 알아야 한다.
+    - 증류에서는, 논문을 쓸 때 기존 연구에 비추어 자기 작업의 맥락을 잡을 수 있어야 한다고 기대된다(즉 related work 섹션을 쓰는 것[^wpekmwudkpd]). 이는 다른 연구자들이 이걸 신경 써야 할지 판단하는 데 중요하다. 그리고 표준적인 증명 방법, 모두가 물어볼 핵심 베이스라인, 확인해야 할 핵심 함정 등을 모른다면 아무도 당신의 작업을 믿지 않을 것이다.
+  - LLM은 여기서 대단히 유용한 도구다. 웹 검색을 켠 GPT-5 thinking이나 Claude 4 모두 꽤 유용하고, 더 느리지만 더 포괄적인 딥리서치 도구들도 그렇다 (작성 시점 기준 구글 것은 무료로 쓸 수 있다).
+    - 프로젝트 내내 정기적으로 그리고 창의적으로 쓰기를 권한다.
+    - 떠오른 연구들을 반드시 다 읽어야 하는 건 아니다. LLM 요약만 갖고 있어도 세상에 뭐가 있는지 더 인식하게 되고, 시간이 지나면서 이것이 더 깊은 지식으로 쌓인다.
+  - 물론 당신 작업과 *정말로* 관련 깊어 보이는 논문이 있을 때는 가서 깊이 파고들어 제대로 읽어야 한다. LLM 요약에만 의존하지 마라.
+  - 스트레스받지 마라. 문헌에 대한 깊은 지식은 쌓는 데 시간이 걸린다. 다만 넓은 문헌이 쓸모없다고 단정하기보다는 이 부분에서 상승 기울기를 타고 있는지 확인하고 싶을 것이다.
+  - 반대로, 많은 논문이 *실제로* 심하게 오도하거나 아예 거짓이니, 부디 무비판적으로 믿지는 마라![^1bau7vsh9tk]
+
+자, 이 모든 게 연구의 단계들과 어떻게 다시 연결될까? 이제 당신은 네 단계 모두를 생각하게 될 것이다. 먼저 탐색과 이해에서 기존 스킬을 어떻게 심화할지 이야기하고, 그다음 아이디에이션 연습과 실제로 작업을 글로 정리하는 일이 어떤 모습이어야 하는지 이야기하겠다.
+
+### 스킬 심화하기 (Deepening Your Skills)
+
+당신은 여전히 탐색하고 이해하겠지만, 엄밀함과 더 느린 스킬에 더 무게를 두게 된다. 위에서 마음가짐을 논하며 말한 것에 더해, 좀 더 구체적인 조언을 적어둔다.
+
+- **더 깊은 탐색**은 생산성 극대화라는 마음가짐을 체화하는 것인데, 여기서는 단위 시간당 정보 획득량을 최대화한다는 뜻이다. 항상 물어라. "나는 지금 뭔가를 배우고 있는가?"
+  - *토끼굴을 피하라:* 흔한 실수는 무작위한 이상 현상 하나를 발견하고 거기에 확대해 들어가는 것이다. 언제 방향을 틀지 아는 것이 결정적이다. 한두 시간마다 타이머를 맞춰 놓고 한 발 물러나, 진전을 내고 있는지 자문하라.
+    - 조금이라도 막힌 느낌, 산만한 느낌, 궤도를 벗어난 느낌이 들 때마다 5분 타이머를 맞추고 생각해 보기를 권한다. 다음에 무엇을 할 수 있을까, 무엇을 해야 할까, 그리고 나는 지금 가장 중요한 것을 하고 있는가?
+  - *너무 얇게 펼치지 마라:* 많은 것을 피상적으로 하면 그중 어느 것도 흥미로워지지 않는다.
+  - 새로운 것을 배우지 못한 채 다섯 시간 넘게 썼다면, 아마 다른 접근을 시도해야 한다.
+    - 그리고 새로운 것을 배우지 못한 채 이틀 넘게 썼다면, 방향을 틀어 다른 일을 하는 것을 진지하게 고려해야 한다.
+  - 우선순위 설정을 연습하려면 자기 결정에 의도를 담아라. 어떤 실험이 옳은 선택이라고 생각하는 *이유*를 적어두고, 나중에 그게 맞았는지 돌아보라. 이렇게 하면 직관이 명시적으로 드러나고 갱신하기도 쉬워진다.
+- **더 깊은 이해**는 회의주의를 연습하고 빈틈없는 논거를 쌓는 것이다. 자기 결과를 집요하게 레드팀하라.
+  - 어떤 실험은 다른 실험보다 훨씬 임팩트가 크고 정보량이 많다! 머리에 처음 떠오른 실험을 그냥 하지 마라. 가설이 거짓일 *수 있는* 핵심 경로들과 그것을 어떻게 검증할지 생각하라. 혹은 회의론자가 긍정적 실험 결과를 다른 식으로 설명해 치울 수 있을지 생각하라.
+    - 유용한 연습은, 못 믿겠다고 계속 불평하면서 당신 것이 왜 틀렸는지 논거를 만들어 내는 아주 얄미운 회의론자와 대화하고 있다고 상상하는 것이다. 그 사람이 발붙일 곳이 없게 하려면 무엇을 할 수 있을까?
+  - 물론 여기에도 우선순위 설정의 요소가 있다. 중요하지 않은 곁가지 주장이나 사전 확률상 아주 그럴듯해 보이는 것을 다루는 중이라면, 틀릴 수도 있는 얕은 논거가 오히려 옳은 목표일 때가 있다. 그럴 땐 그냥 넘어가서 더 흥미로운 다른 일을 하면 된다.
+  - 연습: 미묘한 착시를 포착하는 연습을 하려면, 읽는 논문을 레드팀하면서 잠재적 결함을 생각해 보고, 가능하면 그 실험을 직접 돌려 보라.
+
+### 좋은 과학 하기 (Doing Good Science)
+
+- **체리피킹을 피하라:** 연구자는 의도했든 아니든 실제보다 설득력 있어 보이는 증거를 만들어낼 수 있다. 고전적인 방법 하나가 체리피킹이다. 가장 그럴듯해 보이는 예시만 제시하는 것 말이다.
+  - 작업을 글로 정리할 때는 항상 무작위로 뽑은 예시를 포함하라. 특히 구체적인 대상에 대해 방대한 정성적 분석을 제시할 때는 더욱 그렇다. 지면이 부족하면 부록에 넣어도 괜찮지만, 반드시 있어야 한다.
+- **베이스라인을 써라:** 흔한 실수는, 사람들이 실제로 썼을 법하거나 이 분야에서 표준인 그럴듯한 대안들보다 더 나은 결과를 낸다는 것을 보이는 대신, '괜찮은' 결과가 나온다는 것만 보여서 기법이 작동함을 주장하려는 것이다. 예컨대 사람들이 당신의 멋진 조종 벡터 결과를 쓰길 원한다면, 그것이 시스템 프롬프트를 바꾸는 것보다 낫다는 걸 보여야 한다.
+- **베이스라인에 일부러 힘을 빼지 마라:** 마찬가지로, 자기 기법의 좋은 하이퍼파라미터를 찾는 데는 훨씬 많은 노력을 쏟고 베이스라인에는 그러지 않기 쉽다. 베이스라인에서 이 분야의 선행 연구가 낸 것과 비슷한 수준의 결과를 내고 있는지 확인하라.
+- **화려한 기법에 어블레이션을 돌려라:** 움직이는 부품이 잔뜩인 화려한 기법을 만들었는데 그중 다수가 실제로는 불필요한 경우가 흔하다. 언제나 한 부분씩 제거해 보고 기법이 망가지는지 확인해야 한다. 모든 부분에 대해 그렇게 하라.
+  - 예컨대 [RMU 논문](https://arxiv.org/abs/2403.03218)의 [원래 언러닝 기법](https://arxiv.org/abs/2403.03218v1)은 의미 있는 조종 벡터를 찾는 것에 기반했다고 주장했는데, 후속 연구에서 사실은 노름이 아주 큰 벡터를 더해 모델을 망가뜨린 것일 뿐이고 무작위 벡터도 똑같이 잘 작동한다는 게 밝혀졌다.
+- **(비공식적으로라도) 주장을 사전 등록하라:** 어떤 실험 결과가 주장을 세우기 *전에* 얻어진 것이고 어떤 것이 *후에* 얻어진 것인지 명확히 추적하는 것이 중요하다. 사후 분석(결과를 본 뒤에 해석하는 것)은 본질적으로, 미리 명시한 실험으로 확인된 예측보다 덜 인상적이다.
+- **재현 가능하게 하라:** 현실적으로 가능한 범위에서 코드, 데이터, 모델을 공유하라.
+  - 시간이 있다면 깨끗한 머신에서도 돌아가는지 확인하고, 핵심 모델 가중치와 데이터셋으로 연결되는 친절한 readme를 포함하라.
+  - 이렇게 하면 남들이 당신 작업이 참인지 확인할 수 있을 뿐 아니라, 사람들이 당신 작업을 믿고 그 위에 쌓아 올릴 가능성도 높아진다[^adytzr5d7y]. 재현 시도가 존재할 가능성이 커지고, 이제 마찰이 낮아졌기 때문이다.
+- **단순함:** 단순하고 뻔한 방법을 먼저 시도하는 쪽으로 기울어라. 화려한 기법은 함정이 될 수 있다. 좋은 연구는 실용적인 것이지 과시하는 게 아니다.
+  - 화려한 기법/실험을 설계하고 있다면, 새로운 디테일 하나하나가 망가질 수 있는 지점 하나씩이다.
+  - 수수께끼 같은 것을 설명하려 할 때, 초보 연구자들은 "어쩌면 MLP0이 *모든* 입력에서 엄청나게 중요한 것이고, 내 프롬프트에 특별한 건 없는지도 모른다" 같은 단순하고 멍청한 가설을 자주 무시한다.
+- **정성적이면서 *동시에* 정량적으로 하라:** 현대 머신러닝의 진보를 이끈 주요 동력 중 하나는 정량적이 되는 것, 벤치마크를 갖추고 어떤 기법이 그 숫자를 올린다는 걸 보이는 것이다. Mech interp의 핵심 동력 중 하나는 정성적 연구에 대한 개방성이다. 요약 통계는 엄청나게 많은 정보를 잃어버린다. 실제로 무슨 일이 벌어지는지 깊이 들여다보면 무엇을 배울 수 있을까?
+  - 내 생각에 최고의 연구는 양쪽의 장점을 모두 취하려 한다. 정성적 분석으로 무슨 일이 벌어지는지 이해한 뒤, 더 정량적인 방법으로 검증한다. 논문이 둘 중 하나만 한다면 아마 뭔가를 놓치고 있는 것이다.
+- **자기 데이터를 읽어라:** 특히 탐색 국면에서 시간을 아주 잘 쓰는 방법은, 그냥 실제로 자신이 다루는 데이터나 모델의 사고 사슬과 응답을 읽어보는 것이다.
+  - 데이터의 품질이 실험 결과의 결정적 동인인 경우가 많다. 그리고 그 품질이 꽤 나쁜 경우도 많다.
+  - 프로젝트 작업의 대부분이 데이터의 결함을 알아채고 더 나은 데이터셋을 만드는 데 들어가기도 한다. 이걸 알아내는 데 쓴 시간은 대단히 값지다.
+  - 마찬가지로, 독자가 스스로 표본 점검을 할 수 있도록 부록에 데이터의 무작위 예시를 포함하라.
+- **바퀴를 재발명하지 마라:** Mech interp의 흔한 실수는 이미 된 일을 하는 것이다[^va7mhfkrhm]. 이제 우리에겐 LLM 기반 문헌 리뷰가 있다. 변명의 여지가 훨씬 적다. 먼저 확인하라!
+- **흥분은 헛소리의 증거다:** 일반적으로 참인 결과 대부분은 흥미롭지 않은 반면, 거짓인 결과 중에는 흥미로운 것이 꽤 있다. 그러니 베이즈적 관점에서, 결과가 흥미롭고 멋지다면 평소보다 거짓일 가능성이 *더* 높다!
+  - 정말 신나 하고 싶은 충동에 저항하라! 흥미로운 결과에 대한 올바른 태도는, 정말 열심히 반증을 시도해 보고 아이디어가 바닥날 때까지는 깊은 회의주의를 유지하는 것이다.
+- **통계를 제대로 하라:** 적절한 표본 크기를 잡는 것, 지금 가진 증거에서 무엇을 추론할 수 있고 없는지 아는 것 등과 관련해 피해야 할 함정이 많다. 내 MATS 수료생 중 한 명인 Paul Bogdan이 이에 대한 훌륭한 블로그 글을 [여기](https://www.lesswrong.com/posts/GxhtzqMwdTHo6326y/statistical-suggestions-for-mech-interp-research-and-beyond)에 썼다.
+
+### 아이디에이션 연습하기 (Practicing Ideation)
+
+자, 이제 실제로 작업할 좋은 연구 아이디어를 내고 싶다. 이건 어떤 모습일까? 나는 이것을 **아이디어 생성하기**와 그중 최선을 찾기 위해 **평가하기**로 나눌 것을 권한다.
+
+아이디어를 생성하려면, 나는 대개 빈 문서를 하나 열고 최소 한 시간을 확보한 다음, 떠오르는 아이디어를 최대한 많이 그냥 적어 내려간다. 질보다 양을 노려라. 최소 20개는 채워라.
+
+생성을 도울 다른 방법들도 있다:
+
+- 이전 스프린트들을 하는 내내, 한가한 호기심이 들거나 뭔가 이상한 걸 알아챌 때마다 하나의 거대한 장기 문서에 적어두라.
+- 마찬가지로, 논문을 읽을 때 혼란스러운 점, 궁금한 점, 해볼 만한 뻔한 것들을 적어두라.
+
+자, 이제 긴 목록이 생겼다. 그중 최선을 찾는 건 어떤 모습일까?
+
+- 이상적으로는 멘토나 최소한 협업자가 있다면 그들에게 점수를 매겨 달라고 하면 된다.
+  - 그렇게 할 거라면, 그들의 응답을 보기 전에 혼자서 10점 만점으로 점수를 매겨 두라. 그리고 비교해서 점수가 크게 다를 때마다 멘토와 이야기하며 왜 직관이 어긋나는지 알아내려 해보라. 이건 연구 안목을 위한 훌륭한 지도학습 데이터다.
+- 멘토가 없더라도, 그냥 하나씩 훑으며 직감으로 점수를 매기고 정렬하는 것이 긴 목록을 쳐내는 방법으로 나쁘지 않다고 본다.
+- 상위 몇 개에 대해서는 몇 가지 질문에 답해 보기를 권한다.
+  - 여기서 성공은 어떤 모습일까?
+  - 이걸 한 달 했는데 흥미로운 일이 아무것도 안 일어났다면 나는 얼마나 놀랄까?
+  - 이건 어떤 스킬을 요구하는가? 나는 그걸 갖고 있는가/쉽게 얻을 수 있는가?
+  - 이건 어떤 모델, 데이터, 컴퓨팅 자원 등을 요구하는가?
+  - 이건 가장 관련 깊은 선행 연구가 한 것과 비교해 어떤가? 선행 연구를 찾아보고 관련된 게 나오는지 확인할 수 있는가?
+
+#### 연구 안목 훈련법 (Research Taste Exercises)
+
+연구 안목을 얻는 것은 피드백 루프가 길기 때문에 느리다. 더 빠른 대리 피드백을 주는 연습으로 이를 가속할 수 있다. ([여기서 영감을 준 Chris Olah에게 감사를](https://colah.github.io/notes/taste/))
+
+- 멘토가 있다면, 빠른 데이터를 얻기 위해 그의 안목을 질의하고 모방하려 해보라. 구체적으로:
+  - 미팅 전에 질문 목록을 적고, 멘토가 뭐라고 말할지 예측을 적어 본 뒤, 실제로 멘토에게 물어보고 어떻게 되는지 비교하라. 어긋난 부분이 있으면 멘토와 이야기하며 왜인지 이해하려 해보라.
+  - 마찬가지로, 멘토가 예상치 못한 제안을 하거나 질문을 던지면, 그 생각이 어디서 왔는지 물어보라.
+  - 멘토가 하는 말이라고 당신이 이해한 바를 정기적으로 자기 말로 다시 풀어 말해주고, 틀린 부분을 고쳐 달라고 하라.[^tt0owz8koks]
+- **논문을 "오프라인 데이터"로 삼아 배우기:** 논문을 읽을 때 수동적으로 소비하지 마라. 서론을 읽고 멈춰라. 그들이 어떤 방법을 썼을지, 핵심 결과가 무엇일지 예측해 보라. 그다음 계속 읽으면서 예측과 비교하라. 저자들이 왜 다른 선택을 했는지 분석하라. 이것은 당신 자신의 연구보다 훨씬 크고 빠른 데이터셋으로 직관을 훈련시킨다.
+
+연구 안목이 실제로 무엇인지 곱씹어 볼 가치도 있다. 더 자세한 것은 [내 글](https://www.alignmentforum.org/posts/Ldrss6o3tiKT6NdMm/my-research-process-understanding-and-cultivating-research)을 보되, 나는 이렇게 나눈다:
+
+- **직관 (시스템 1):** 빠르고 직감적인 느낌으로, 사람들이 연구 안목이라 할 때 보통 떠올리는 것이다. 어떤 방향, 실험, 결과에 대한 호기심·흥분·지루함·회의의 감각.
+- **개념적 틀 (시스템 2):** 깊은 도메인 지식과 근본 원리에 대한 이해.
+- **전략적 큰 그림:** 분야의 더 넓은 맥락을 이해하는 것. 어떤 문제가 중요한가? 주요 미해결 질문은 무엇인가? 어떤 접근이 시도되었는가? 무엇이 새로운 기여가 되는가?
+
+### 작업을 글로 정리하라! (Write up your work!)
+
+이 단계에서는 자기 작업을 어떻게 글로 정리할지 진지하게 생각해야 한다. 글로 정리하는 일은 프로젝트가 무엇에 관한 것이었는지 처음으로 제대로 이해하게 되는 순간인 경우가 많고, 핵심 한계나 빼먹은 실험을 발견하게 되는 순간이기도 하다. 훨씬 자세한 생각은 [ML 논문 쓰기에 대한 내 블로그 글](https://www.alignmentforum.org/posts/eJGptPbbFPZGLpjsp/highly-opinionated-advice-on-how-to-write-ml-papers)을 확인해 보라 (공들인 블로그 글에도 그대로 적용된다!). 아래에 요약해 보겠다.
+
+#### 왜 공개 결과물을 목표로 하는가? (Why aim for public output?)
+
+공개적으로 무언가를 내놓는 게 부담스럽다면, 당분간은 비공개 구글 문서로 정리하고 친구나 협업자 몇 명과 공유하는 것부터 시작해도 된다. 하지만 나는 가능한 한 공개 결과물을 목표로 하기를 강력히 권한다. 일반적으로 아무도 읽지 않는 연구는 중요해지지 않는다. 연구의 목표는 인간[^e3252d8idmr] 지식의 총합에 기여하는 것이다. 그리고 당신이 무엇을 했는지 아무도 이해하지 못한다면 그건 중요하지 않다.
+
+더 나아가, 이 분야에서 커리어를 쌓고 싶다면 — 취업이든, 박사과정이든, 그저 비공식적으로 멘토와 함께 일하는 것이든 — **공개된 연구 결과물이 최고의 자격증명이다.** 그것은 당신이 유능하고, 연구를 실행할 수 있고, 흥미로운 일을 할 수 있다는 아주 명확하고 구체적인 증거이며, 당신과 함께 일해야 할지·당신 말에 주목해야 할지 판단하려는 사람들이 정확히 보고 싶어 하는 종류의 증거다. 그것을 명문 박사과정에서 썼든 무명의 독립 연구자로서 썼든 상관없다. 충분히 좋으면 사람들은 신경 쓴다.
+
+이것이 취할 수 있는 형태에는 몇 가지 선택지가 있다:
+
+- 블로그 글 (예: 개인 블로그나 LessWrong에) — 가장 단순하고 가장 덜 격식적인 형태.
+- Arxiv 논문 — 블로그 글보다 훨씬 읽히기 좋고, 솔직히 질 좋은 블로그 글이 있다면 추가 노력이 그리 크지 않다.[^8354hd0flji]
+- 워크숍 논문[^9oppcf0ftrh] (즉 워크숍에 동료 심사를 위해 제출하는 것으로, 보통 주요 ML 학회의 일부다. 학회 논문보다 문턱이 훨씬 낮다).
+- 학회 논문 (ML에서 최상위 저널에 해당한다. 품질 기준이 꽤 높지만[^fmh579omuc6] 잡음도 *많다*[^f09vsa4w37e]).
+
+이 모든 게 부담스럽게 느껴진다면 블로그 글로 시작해도 괜찮다. 다만 사람들이 arxiv나 워크숍 논문의 문턱을 대체로 과대평가한다고 생각한다. 프로젝트에서 뭔가 멋진 걸 배웠다고 생각한다면, 논문으로 만들 가치가 충분히 있다!
+
+#### 어떻게 글로 정리할 것인가? (How to write stuff up?)
+
+논문의 핵심은 서사다. 독자는 몇 문장 분량 이상의 내용을 가져가지 않는다. 당신의 일은 그 몇 문장이 올바른 문장들이 되게 하고, 독자가 그것에 설득되게 하는 것이다.
+
+논문을 한 개에서 세 개의 핵심 주장(당신의 기여), 그 기여가 참임을 뒷받침하는 증거, 독자가 왜 이것에 관심을 가져야 하는지에 대한 동기로 압축하고, 이 모든 것을 하나의 일관된 서사로 엮어야 한다.
+
+**반복하라(Iterate):** 나는 반복적으로 글을 쓰는 방식을 아주 좋아한다. 먼저 기여와 서사를 정한다. 그다음 압축된 요약, 즉 초록을 쓴다 (블로그 글이라면 TL;DR/요약이 되는데, 이것도 아주 중요하다!). 그다음 논문의 개조식 개요를 쓴다. 어떤 논점을 다룰지, 어떤 증거를 제시할지, 그 증거까지 어떻게 쌓아 올릴지, 어떻게 구조를 잡고 순서를 정할지 등. 멘토나 협업자가 있다면 개조식 개요 단계가 대개 피드백을 받기에 가장 좋은 시점이다. 아니면 적극적으로 관여하는 멘토가 있다면 서사를 형성하는 단계에서 받아도 좋다. 그다음 서론을 쓰고, 그것이 마음에 드는지 확인하라. 그다음(혹은 서론보다 먼저) 그림을 만들어라. 그림은 엄청나게 중요하다! 그다음 그것을 산문으로 살을 붙여라. 사람들은 본문보다 초록과 서론을 읽는 데 훨씬 *많은* 시간을 쓴다. 초록만 읽고 멈추는 사람들까지 감안하면 특히 그렇다. 그러니 그 부분에는 단어당 훨씬 많은 시간을 써야 한다.
+
+**LLM:** LLM은 정말 도움이 되는 글쓰기 도구라고 생각한다. 피드백을 받는 데 대단히 유용하고, 특히 학술 ML 논문처럼 당신에게 익숙하지 않을 수 있는 스타일로 쓸 때 그렇다. 진짜 피드백을 받으려면 안티-아첨 프롬프트를 쓰는 걸 잊지 마라. 다만 LLM이 쓴 조잡한 글은 읽으면 알아채기 쉬운 경우가 많다. 그러니 도구로 쓰되, 그냥 그것에게 통째로 쓰게 하지는 마라. 하지만 예컨대 글이 막혔다면, LLM이 브레인스토밍을 돕거나 영감을 위한 초안을 뽑아 주는 것은 아주 도움이 될 수 있다.
+
+#### 흔한 실수 (Common mistakes)
+
+- **독자에게는 맥락이 없다:** 당신 머릿속에서 논문은 명확할 것이다. 몇 주에서 몇 달을 이 연구 프로젝트에 푹 절여져 있었으니까. 독자는 그렇지 않다. 당신은 독자에게 얼마나 명확한지를 과대평가하게 되므로, 반대 방향으로 크게 치우쳐서 가능한 한 노골적으로 모든 것을 풀어써야 한다.
+  - **이것은 대단히 흔한 실수다.** 당신에게도 일어날 것이라고 가정하라.
+  - 주된 해법은, 실제로 깊이 관여할 만큼 연구 맥락을 갖췄으면서 동시에 상당한 부정적 피드백을 기꺼이 줄 사람들에게 피드백을 받는 것이다.
+    - 명확하다고 생각했던 것에 사람들이 혼란스러워할 때 느껴지는 놀라움의 감각을 알아채라. 왜 혼란스러웠는지 이해하려 하고, 명확해질 때까지 고쳐 나가라.
+- **글쓰기는 뒷전의 일이 아니다:** 사람들은 글쓰기의 우선순위를 자주 낮춘다. 성가신 뒷일처럼 취급하고 실험 돌리기 같은 재미있는 부분을 다 한 뒤 마지막 순간까지 미룬다.
+- **한계를 인정하라:** 자기 작업을 최대한 흥미진진하게 들리도록 만들려는 흔한 실수가 있다. 일반적으로 당신이 가장 신경 쓰는 의견의 주인들은 이런 걸 꿰뚫어 볼 수 있는 유능한 연구자들이다.
+- **좋은 글은 단순하다:** 장황해지거나, 인상적으로 느껴지도록 실제보다 복잡하고 화려하게 들리게 만들려는 경향이 있다. 나는 이것이 대단히 비효과적인 전략이라고 본다.
+- **동기를 부여하는 걸 잊지 마라:** 당신의 논문이 왜 중요하거나 흥미로운지는 독자에게 보통 자명하지 않다. 그들에겐 당신이 가진 맥락이 없다. 왜 이 작업에 관심을 가져야 하는지 설득하는 것은 당신의 일이며, 이상적으로는 초록에서, 아니면 서론에서 해야 한다. 그러지 않으면 독자는 그냥 포기하고 읽기를 멈춘다.
+
+## Mentorship, Collaboration and Sharing Your Work (멘토십, 협업, 그리고 작업 공유)
+
+위 내용을 관통하는 공통 주제는, 멘토나 최소한 협업자가 있는 것이 대단히 유용하다는 점이다. 여기서 그것을 풀어보고 어떻게 찾을지에 대한 조언을 주겠다.
+
+다만 많은 멘토가 사실 훌륭한 연구자는 아니며, 연구 안목이 나쁘거나 mech interp에 잘 맞지 않는 안목을 가졌을 수도 있다는 점도 말해둘 가치가 있다. 이에 대해 어떻게 할지는 당신에게 달렸다.
+
+### 그래서 연구 멘토는 실제로 무슨 일을 하는가? (So what does a research mentor actually do?)
+
+좋은 멘토는 엄청난 가속기다. 학계가 아무리 제 기능을 못 한다 해도, 박사과정생과 지도교수라는 도제식 체계로 굴러가는 데는 이유가 있다. 내가 지도를 시작했을 때, 주 1회 점검이 얼마나 큰 차이를 만드는지 무척 놀랐다! 좋은 멘토가 어떻게 가치를 더하는지 최대한 쪼개 보겠다:
+
+- 시작할 때 **연구 아이디어를 제안해 준다.** 가장 어려운 스킬(아이디에이션)을 우회하고 실행에 집중할 수 있게 해준다.
+- 어떤 실험을 돌릴지 **우선순위를 정하도록 도와준다.** 더 경험 많은 판단을 빌려주어 더 많은 일을 해내게 한다.
+- **언제 방향을 틀지:** 연구 방향이 잘 안 풀릴 때, 방향을 틀도록 압박해 주는 멘토가 있다는 건 대단히 값질 수 있다.[^7ruxx269r2s]
+- **연구 안목을 위한 지도학습 데이터를 제공한다:** 연구 아이디어를 떠올리는 것이나 우선순위 설정처럼 느리거나 아주 느린 스킬의 경우, 처음에 그것을 얻는 *훨씬* 빠른 방법은 멘토의 것을 흉내 내는 법을 배우는 것이다.
+- **문헌에 대한 인터페이스 역할을 한다:** 당신이 스스로 깊은 지식을 쌓기 전에 관련 연구를 짚어준다. 표준 베이스라인, 표준 지표, 관련 기법, 선행 연구를 알려줘 바퀴를 재발명하지 않게 해준다.
+- **당신의 결과를 레드팀해 준다.** 너무 가까이 있어서 못 보는 미묘한 해석가능성 착시와 논증의 결함을 잡아내도록 도와준다.
+- **당신이 놓치고 있는 스킬을 짚어준다.** 그게 스킬인 줄도 몰랐던 것들 말이다. 전반적으로 학습을 안내하고 우선순위를 잡도록 돕는다.
+- **작업을 전달하는 과정을 함께 걸어준다.** 발견을 증류하고 세상에 명료하게 제시하도록 돕는다.
+- **동기부여/책임감:** 아주 손을 덜 대는 관계라도 자기 작업을 발표할 상대가 있다는 것이 동기와 책임감을 준다고 느끼는 사람이 많다 (특히 멘토에게 잘 보이고 싶거나 일자리를 원하는 경우 등. 물론 그런 요인은 스트레스도 키운다!).
+  - 분석 마비에 빠지기 쉬운 사람이라면, 불확실한 결정을 멘토에게 미룰 수 있다는 것 자체가 대단히 값질 수 있다.
+- **추천서:** 당신의 실력을 보증해 줄 수 있는 멘토가 있다는 건 아주 도움이 된다. 특히 그가 미래에 당신을 채용할 만한 사람들을 알고 있다면 더욱 그렇다.
+
+### 멘토를 찾는 방법에 대한 조언 (Advice on finding a mentor)
+
+이 분야로 넘어오는 동안 멘토십을 얻을 만한 방법 몇 가지를 제안한다. 박사과정을 하거나 연구직을 얻는 것 같은 더 큰 헌신이 필요한 방법은 아래에서 다룬다.
+
+참고: 멘토를 찾기 위해 무엇을 하든, 스스로 연구를 할 수 있다는 증거 — 즉 자기 동기와 노력을 보여주고 이상적으로는 실제로 흥미로운 연구 결과를 보여주는 공개 결과물 — 가 있는 것이 대단히 도움이 되며, 그것이 우선순위여야 한다.
+
+#### 멘토링 프로그램 (Mentoring programs)
+
+[MATS](http://matsprogram.org) 같은 멘토링 프로그램은 이 분야로 들어오는 대단히 유용한 경로라고 생각한다. 보통 몇 달간 풀타임으로 진행하며 논문을 쓰고, 더 경험 많은 연구자와 주 1회 점검을 한다. 멘토의 질에 따라 경험이 크게 달라지겠지만, 적어도 내 MATS 스칼라들의 경우 mech interp에 완전히 처음인 사람도 몇 달 만에 최상위 학회 논문을 내는 일이 흔하다. 훨씬 자세한 내용은 [내 MATS 지원 문서](https://tinyurl.com/neel-mats-app)를 보라.
+
+이런 프로그램을 하고 가치를 얻는 사람들의 **배경은 아주 다양하다.** 분야에 완전히 처음인 사람, 더 경험 많은 멘토와 일하고 싶은 1년 이상의 해석가능성 연구 경력자, 어린 학부생, 중견 전문가(교수도 몇 명 있었다) 등등.
+
+내 [MATS 10.0 지원](https://tinyurl.com/neel-mats-app)이 열려 있고, 마감은 **2025년 12월 23일**이다.
+
+다른 프로그램들 (전반적으로 MATS보다는 질이 낮다고 보지만, 멘토에 따라 지원할 가치가 있는 경우가 많다):
+
+- *풀타임/대면:* [MATS](https://www.matsprogram.org/), [Pivotal](https://www.pivotal-research.org/fellowship), [LASR](https://www.lasrlabs.org/), [PIBBSS](https://pibbss.ai/fellowship/)
+- *파트타임/원격:* [SPAR](https://sparai.org/), [MARS](https://www.cambridgeaisafety.org/mars)
+
+### 좋은 콜드 이메일 보내기 (Sending A Good Cold Email)
+
+직접 나서서 누군가에게 멘토가 되어 달라고 설득해 볼 수도 있다. 이상적으로는 따뜻한 소개를 통해서, 그게 아니면 그냥 콜드 이메일로라도 연락하는 것은 아주 효과적일 수 있다. 다만 나는 콜드 이메일을 많이 받는데 그중 다수가 별로 효과적이지 않다고 생각하므로, 몇 가지 조언을 적어둔다:
+
+- **가장 저명한 사람에게만 이메일 보내지 마라.** 많은 사람이 그냥 이 분야에서 가장 유명한 사람들에게 이메일을 보내 멘토십을 요청한다. 나쁜 계획이다! 그런 사람들은 아주 바쁘고 이메일도 많이 받는다. 나는 멘토십을 요청하는 이메일에는 반사적으로 "제 MATS 코호트에 지원해 주세요"라고 답한다.
+  - 하지만 유용한 멘토십을 잔뜩 제공할 수 있는 덜 저명한 사람들이 많다. 그런 사람들은 콜드 이메일을 받고 반가워할 가능성이 훨씬 높고, 관여할 시간도 있으며, 어쩌면 프로젝트를 제대로 지도할 여력까지 있을 수 있다.
+  - 최근 내 팀에 합류한 사람들이나 MATS 기간에 나와 훌륭한 논문을 쓴 사람들 다수가, 이 분야에 새로 온 사람들에게 큰 가치를 더할 수 있다고 본다. 그들에게 연락해 보기를 권한다!
+    - 예컨대 내 팀에 새로 합류한 Josh Engels는 콜드 이메일을 더 받으면 좋겠다고 말했다 (2025년 9월 초 기준).
+    - 일반적인 휴리스틱으로, 화려한 마지막 저자 말고 논문의 제1저자에게 이메일을 보내라.
+- **작게 시작하라:** 한 번도 교류한 적 없는 사람에게 어떤 프로젝트를 공식적으로 지도해 줄 수 있는지 묻는 이메일을 보내지 마라. 그건 큰 헌신이다.
+  - 당신 논문에 대해, 혹은 그 논문 위에 쌓아 올린 제 작업에 대해 이야기 나누고 싶다는 쪽이 훨씬 낫다.
+  - 아니면 프로젝트 아이디어 몇 개에 피드백을 주며 잠깐 이야기할 의향이 있는지 묻는 정도.
+  - 그리고 이게 잘 풀리면 자연스럽게 더 장기적인 멘토링 관계로 이어질 수도 있다!
+- **작업 증명(Proof of work):** 수많은 사람에게 스팸을 뿌리는 게 아니라 이 사람에게 실제로 관심이 있다는 걸 보여줘라.
+  - 그 사람의 연구를 실제로 살펴봤다는 걸 보여주고, 그에 대해 통찰 있는 말을 하고, 질문을 던져라.
+    - 다만 LLM 시대에는 이것이 예전만큼 "이 사람에게 실제로 관심을 가졌다"는 비용이 큰 신호는 아니라는 점은 인정한다.
+    - 하지만 그의 연구 위에 쌓아 올린 자기 연구를 링크하는 것은 여전히 상당히 비용이 크고, 상대에게 아주 기분 좋은 일이라고 본다.
+- **공격적으로 우선순위를 정하라.** 독자가 언제든 읽기를 멈출 수 있다고 가정하고, 가장 결정적이고 인상적인 정보를 앞에 두어라.
+- **당신이 누구인지 설명하라:** 답장할 여력보다 더 많은 이메일을 받는 사람에게 보낸다면, 그는 우선순위를 매길 것이다. 여기서 핵심 입력은 그냥 당신이 누구인지, 무엇을 했는지, 가능성을 보여주는 흥미로운 일을 했는지, 관련 자격이 있는지 등이다. 나는 개인적으로 사람들이 자신에 대한 가장 인상적인 것을 첫 한두 문장에 그냥 말해주면 아주 도움이 된다고 느낀다.
+  - 거만해 보이지 않게 이렇게 해보라: "이런 이메일을 많이 받으실 텐데요. 우선순위를 정하시는 데 도움이 되도록 제 핵심 정보를 적습니다."
+- 핵심 문구에 **볼드체**를 써서 이메일을 훑기 쉽게 만들어라.
+- **간결하게 하라.** 내가 자주 고마워하는 형태는, 요청을 요약한 짧은 문단과 관심이 있으면 볼 수 있는 상세 문서 링크다.
+- **빠른 요청:** 일반적으로 내가 이메일을 읽을 때의 흐름은, 즉시 답장하거나 아니면 다시는 보지 않는 것이다. 빨리 답할 수 있으면 즉시 답장할 가능성이 훨씬 높다. 바쁜 사람에게 이메일을 보내고 싶다면, 그가 도울 수 있을 만한 명확하고 구체적인 질문을 앞에 두어라.
+
+### 커뮤니티와 협업자 (Community & collaborators)
+
+멘토를 찾는 것보다 훨씬 쉬운 건 협업자를 찾는 것이다. 같은 프로젝트를 함께할 사람들, 혹은 그냥 mech interp를 더 배우려는 다른 사람들, 이야기 나누고 서로 피드백을 줄 수 있는 사람들 말이다:
+
+- **오프라인:** 지역 AI 안전성 허브(런던, 베이 에어리어 등), 대학 그룹, ML 학회(예: 내가 공동 주최하는 [NeurIPS Mech Interp 워크숍](http://mechinterpworkshop.com/)), EAG/EAGx 컨퍼런스.
+  - 학생이라면 학교에 해석가능성에 관심 있는 사람이 있는 연구실이 있는지 알아보라. 그 주제를 연구하는 교수가 없더라도 관심 있는 박사과정생이 있을 수 있다.
+- **온라인:** 여기도 사람을 만나기 좋은 곳이다! 피드백을 받으려고 작업을 공유하거나, 그냥 내가 관심 있는 것에 누가 관심이 있는지 물어보고, 반응하거나 관심 있어 보이는 사람에게 DM을 보내 어떻게 되는지 보기를 권한다.
+  - [Open Source Mechanistic Interpretability Slack](https://www.neelnanda.io/osmi-slack-invite)
+  - [Eleuther Discord](https://discord.gg/nHS4YxmfeM) (interpretability-general 채널)
+  - [Mech Interp Discord](https://discord.gg/ysVfhCfCKw)
+
+**최신 동향 따라가기:** 또 하나 흔한 질문은 이 분야의 최신 동향을 어떻게 따라가느냐다. 솔직히 이 분야에 새로 온 사람은 이걸 그렇게까지 걱정하지 않아도 된다고 본다. 대부분의 새 논문은 무관하며, 화제가 되는 것들도 마찬가지다. 하지만 조금은 흐름에 발을 담그고 있는 게 좋다. 이 커뮤니티는 학계와 학계 밖 양쪽에 상당한 부분이 있고, 각각 따라가기 좋은 방법이 다른 경우가 많다는 점에 유의하라.
+
+- LessWrong과 AlignmentForum은 덜 학술적인 절반을 따라가기에 괜찮은 곳이다.
+- 트위터는 혼란스럽고 무질서한 곳이지만 양쪽 모두를 따라가기에 그럭저럭 괜찮다. 누구를 팔로우하는 게 맞는지는 좀 불분명하다.
+  - [Chris Olah](http://x.com/ch402)는 트윗을 많이 하지 않지만, 할 때는 질이 높다.
+  - [나는](http://x.com/neelnanda5) 내 해석가능성 작업 전부와 때때로 다른 사람들의 작업에 대해 트윗한다.
+
+## Careers (커리어)
+
+### 어디에 지원할 것인가 (Where to apply)
+
+- Anthropic 해석가능성 팀 채용: [research scientist](https://job-boards.greenhouse.io/anthropic/jobs/4020159008), [research engineer](https://job-boards.greenhouse.io/anthropic/jobs/4020305008), [research manager](https://job-boards.greenhouse.io/anthropic/jobs/4009173008)
+- [OpenAI 해석가능성 팀 채용](https://openai.com/careers/research-engineer-scientist-interpretability)
+- Google DeepMind의 내 팀도 [2026년 초에 채용](https://deepmind.google/about/careers/#open-roles)하기를 바란다! 지켜봐 달라.
+- [Transluce](https://transluce.org/) — 비영리 연구소
+- [Goodfire](https://www.goodfire.ai/) — mech interp 스타트업으로 [여러 자리를 채용 중](https://www.goodfire.ai/careers)이다.
+  - [최근 5천만 달러 시리즈 A를 유치했고](https://www.goodfire.ai/blog/announcing-our-50m-series-a), 작성 시점 기준 제품에 집중하는 인력과 더 근본적인 연구에 집중하는 인력을 모두 두려 하고 있다.
+- 영국 정부 AI Security Institute의 해석가능성 팀 ([현재는 채용 중이 아님](https://www.aisi.gov.uk/careers#open-roles))
+
+#### 연구비 지원하기 (Applying for grants)
+
+안전성 커뮤니티를 통해 mech interp에 들어오려는 사람들을 위해, mech interp 같은 새 분야에서 실력을 쌓으려는 사람에게 커리어 전환 연구비를 줄 의향이 있는 펀더들이 있다. 내가 아는 가장 좋은 곳은 아마 [Open Philanthropy의 Early Career Funding](https://www.openphilanthropy.org/career-development-and-transition-funding/)일 것이다.
+
+### 다른 AI 안전성 영역도 탐색하라 (Explore Other AI Safety Areas)
+
+Mech interp만이 판은 아니다! Evals, AI Control, Scalable Oversight 같은 다른 중요한 안전성 영역이 있고, 특히 뒤의 둘은 mech interp에 비해 등한시된 것으로 보인다. [GDM AGI Safety Approach](https://arxiv.org/pdf/2504.01849)가 이 분야의 여러 부분을 개관한다. 안전성을 이유로 이 일을 하는 것이라면, 당신에게도 끌리는 더 등한시된 하위 분야가 있는지 확인해 보기를 권한다!
+
+### 채용 담당자는 무엇을 보는가 (What do hiring managers look for)
+
+이 사람이 인성적으로 잘 맞는지(대개는 위험 신호를 살피는 것에 가깝다) 같은, 거의 모든 직무에 적용되는 것들은 제쳐두고, 해석가능성 분야의 채용 담당자가 흔히 무엇을 보는지에 대한 내 감각을 적어둔다.
+
+유용한 심적 모델은, 채용 담당자 입장에서 이것이 정보가 거의 없고 다소 적대적인 환경에서 하는 불확실한 베팅이라는 것이다. 지원자마다 자신을 완벽한 적임자로 제시하고 싶어 한다. 그래서 담당자는 위조하기 어려운 신호에 의존해야 한다. 하지만 실제로 함께 한참 일해 보기 전에는 한 사람에 대해 그만한 정보를 얻기가 꽤 어렵다.
+
+지원자로서 당신의 목표는, 당신의 실력에 대한 설득력 있고 위조하기 어려운 증거를 제공하는 것이다. 그렇게 하는 최선의 방법은 그냥 좋은 연구를 하고 그것을 공개적으로 공유하는 것이다. 연구 이력이 충분히 좋다면, 면접은 위험 신호를 점검하고 당신이 실제로 코드를 잘 쓰고 실험을 잘 돌릴 수 있는지 확인하는 역할에 그칠 수도 있다.
+
+핵심 역량:
+
+- **연구 역량:** 엔드투엔드 프로젝트를 완수한 이력이 최고의 신호다. 논문은 이를 보여주는 훌륭한 방법이다.
+  - **연구 안목:** 훌륭한 연구 아이디어를 떠올리고 *동시에* 그것을 완수까지 밀어붙이는 능력은 드물고 아주 값지다.
+  - **실험 설계:** 좋은 실험을 설계하고, 연구 아이디어를 구체화해 행동으로 옮길 수 있는가?
+- **Mech interp에 대한 개념적 이해:** 핵심 아이디어를 파악하고 문헌을 아는가?
+- **생산성과 성실성:** 면접으로 알아내기 아주 어렵지만 대단히 중요하다. 흥미로운 일을 해온 공개 이력이 좋은 신호이고, 신뢰할 수 있는 출처의 강한 추천서도 그렇다.[^slnwemz4grq]
+- **엔지니어링 역량:** 파이썬 노트북에서 유창하게 작업할 수 있는가? 실험 코드를 빠르고 잘 쓸 수 있는가? 일을 해낼 수 있는가? 표준적인 함정들을 이해하는가?
+- **깊은 엔지니어링 실력:** 실험을 뚝딱 붙이는 것을 넘어, 크고 복잡한 코드베이스를 헤쳐 나가고, 유지보수 가능한 코드를 쓰고, 복잡한 소프트웨어 프로젝트를 설계할 수 있는가?
+  - 이건 독립 연구자나 학계에 있을 때보다 더 큰 랩이나 테크 기업 안에서 연구할 때 훨씬 중요하다.
+  - 유망해 보이는 연구자를 내 팀에 채용하지 않는 가장 흔한 이유 중 하나가, 엔지니어링 실력이 충분히 강하지 않다는 것이다.
+  - 물론 LLM이 엔지니어링 역량과 관련한 판을 상당히 바꾸고 있지만, 안타깝게도 깊은 엔지니어링 실력은 얕은 것보다 자동화하기 훨씬 어려울 것이라고 본다.
+  - 아쉽게도 이걸 얻는 방법에 대해서는 더 크고 복잡한 코드베이스에서 일하며 감당하는 법을 배우라는 것 말고 좋은 조언이 없다. 더 경험 많은 프로그래머와의 페어 프로그래밍은 암묵지를 전수받는 훌륭한 방법이 될 수 있다.
+- **회의주의:** 연구에 건설적으로 관여하며 비판적으로 평가할 수 있는가? 특히 자기 자신의 연구에 대해 그렇게 할 수 있는가? 좋은 연구자는 참인 작업을 해낼 수 있어야 한다.
+
+### 박사과정을 해야 할까? (Should you do a PhD?)
+
+나는 박사학위가 없고 (그리고 받으려 했다면 훨씬 덜 성공적인 커리어를 보냈을 거라 생각한다) 그래서 다소 편향돼 있다. 하지만 자주 나오는 질문이다. 내가 들어본 찬성 논거 중 가장 강한 것들:
+
+- 극도로 높은 **자율성**을 얻는다. 어떤 산업계 랩도 지원하지 않을 틈새 주제를 몇 년간 깊이 파고들고 싶다면, 박사과정이 그럴 수 있는 몇 안 되는 길 중 하나다.
+- **자기 연구 아젠다를 설정하는** 능력을 기르기에 훌륭한 환경이다. 이건 결정적이면서도 어려운 스킬이고, 아젠다가 위에서 아래로 정해지는 경우가 많은 산업계에서는 배우기 더 어렵다(팀마다 편차가 크긴 하다).
+
+그리고 내가 흔히 나쁜 생각이라고 보는 이유들:
+
+- 기회비용이 막대하다. 그 4~6년을 산업계 랩에서 직접적이고 관련성 높은 경험을 쌓는 데 쓸 수 있다.
+- 학계의 인센티브는 임팩트 있는 연구를 하는 것과 어긋날 수 있다. 예컨대 출판 압박 때문에 자기 작업의 한계를 인정하지 못하게 되는 식이다.
+- 지도의 질이 극심하게 들쭉날쭉하고, 나쁜 지도교수는 당신의 삶을 비참하게 만들 수 있다.
+- 삶의 질: 보수가 대체로 형편없고(당신에게 중요할 수도 아닐 수도 있다), 선호하는 곳이 아닌 다른 도시나 나라의 자리만 얻게 될 수도 있다.
+
+그럼에도 이 모든 단서를 감안하고 나면, 어떤 사람에게는 분명 옳은 선택이다! 내 전반적인 견해:
+
+- 중요한 핵심은 멘토십이다. 자신보다 나은 연구자와 함께 일하며 배우는 환경에 있는 것.
+  - 박사과정은 종종 이것을 얻는 좋은 방법이다. 하지만 다른 방법으로 이걸 얻을 수 있다면 아마 그쪽으로 가야 한다. 박사과정에는 단점도 많다.
+- 일반적으로 지도교수 간 편차, 그리고 산업계 매니저 간 편차가 학계 대 산업계의 차이를 압도한다. 따라서 정확히 누가 당신을 관리하게 될지에 많은 주의를 기울여야 한다.
+  - 박사과정이라면 잠재적 지도교수의 학생들과 사적인 자리에서 이야기해 보라. 꽤 나쁜 이야기를 한다면 그 지도교수를 피할 좋은 이유다.
+  - 흔한 실수는 가장 명망 있고 유명한 지도교수를 좇는 것인데, 정작 당신에게 필요한 건 당신에게 가장 많은 시간을 내줄 사람인 경우가 많고, 이 둘은 반대로 상관된다.
+- 흔한 실수 하나는 박사과정을 *끝내야* 한다고 느끼는 것이다. 하지만 박사과정의 핵심이 학습 환경이라고 진심으로 믿는다면, 왜 박사과정의 공식적인 종료가 떠나기에 최적인 시점이겠는가? 그건 다 임의적인 것이다.
+  - 내 생각엔 최소 6개월마다 다른 기회들을 진지하게 평가하고, 몇 군데 지원해 보고, 더 나은 기회가 오면 (전환 비용을 감안한 뒤) 감정적으로도 기꺼이 떠날 수 있어야 한다.
+    - 종종 그냥 1년 휴학하고 원할 때 복귀할 수도 있다는 점을 알아두라.
+
+### 관련 학계 연구실 (Relevant Academic Labs)
+
+이 두 곳에서 나오는 작업을 아주 좋아한다. 일하기 좋은 곳으로 보인다:
+
+- David Bau (Northeastern)
+- Martin Wattenberg & Fernanda Viegas (Harvard)
+
+해석가능성 연구를 하기 좋아 보이는 다른 연구실들 (포괄적인 목록을 의도한 것이 아님에 유의하라):
+
+- Yonatan Belinkov (Technion)
+- Jacob Andreas (MIT)
+- Jacob Steinhardt (Berkeley)
+- Ellie Pavlick (Brown)
+- Victor Veitch (UChicago)
+- Robert West (EPFL)
+- Roger Grosse (Toronto)
+- Mor Geva (Tel Aviv)
+- Sarah Wiegreffe (Maryland)
+- Aaron Mueller (Boston University)
+
+*귀중한 피드백을 준 Arthur Conmy, Paul Bogdan, Bilal Chughtai, Julian Minder, Callum McDougall, Josh Engels, Clement Dumas, Bart Bussmann에게 깊이 감사한다.*
+
 [^nifk1wb1jum]: 여기서 말하는 건 꽉 채운 한 달, 그러니까 200 작업시간 정도를 뜻한다. 파트타임으로만 할 수 있다면 더 오래 걸려도 괜찮다. 정말 집중하고 있거나 미리 앞서 있다면 더 빨리 넘어가라.
 
 [^ue9pdw6v8rj]: 더 접근하기 쉬운 것을 원한다면, 내 예전 MATS 스칼라 중 한 명은 GPT-5 thinking에게 코딩 연습문제(예: 빈 함수와 좋은 테스트가 있는 Python 스크립트)를 만들게 하는 것을 더 쉬운 진입로로 추천한다.
@@ -501,4 +845,32 @@ LLM은 학습, 특히 새로운 분야를 배울 때 대단히 유용한 도구�
 [^wuxdh4f7kh]: 참고: "생각"이나 "사고 사슬"은 형편없는 용어다. 사고 사슬은, 단기 기억이 매우 제한된 모델이 쓸 수도 있고 무시할 수도 있는 스크래치패드로 생각하는 편이 훨씬 유용하다.
 
 [^3qxoen8tddk]: 추론 모델은 표준적인 해석가능성 기법 상당수를 무너뜨린다. 이제 계산 그래프가 수천 번의 샘플링이라는 이산적이고 미분 불가능하며 무작위적인 연산을 통과하기 때문이다. 대부분의 해석가능성 기법은 단일 순전파(forward pass)를 연구하는 데 초점을 맞춘다.
+
+[^lm5ixkfuzk]: 예컨대 출판할 수 있는 통찰만을 말하는 게 아니다.
+
+[^idab8074tka]: 블로그 글에서는 이걸 "빠르게 움직이기(moving fast)"라고 불렀는데, 그게 일부 사람들을 헷갈리게 했을 수도 있겠다.
+
+[^wpekmwudkpd]: 다만 좋은 서론 하나만으로 이게 잘 되는 경우도 많다.
+
+[^1bau7vsh9tk]: 그리고 안타깝게도, 유명한 연구자가 공저자로 있다는 것만으로는 이를 피할 충분한 근거가 되지 않는다. 지난 1~2년간 내가 공저한 논문 중 최소 하나는 상당 부분 거짓일 것이라 확신한다.
+
+[^adytzr5d7y]: 사람들이 당신 작업 위에 무언가를 쌓아 올리는 것은 당신의 원래 작업을 더 좋아 보이게 만들기 때문에 당신에게 강하게 이롭다. 게다가 사람들이 당신 작업에 깊이 관여하는 걸 보는 것 자체가 꽤 멋진 일이다.
+
+[^va7mhfkrhm]: 의도적으로 선행 연구를 재현하거나, 과거 연구가 엉성했음을 보이려는 것은 완전히 합당하다는 점에 유의하라. 그냥 *실수로* 바퀴를 재발명하지만 않으면 된다.
+
+[^tt0owz8koks]: 이건 연구 안목에 집중하고 있든 아니든 대체로 하면 좋은 일이다!
+
+[^e3252d8idmr]: 그리고 요즘엔 LLM의 지식도 포함되려나?
+
+[^8354hd0flji]: Arxiv 논문을 여러 편 써 본 사람의 추천(endorsement)이 필요하다는 점에 유의하라. ML 논문은 보통 cs.LG 카테고리를 쓴다.
+
+[^9oppcf0ftrh]: 워크숍이 "비아카이브(non-archival)"인 한, 워크숍과 학회에 *동시에* 제출할 수 있다는 점에 유의하라.
+
+[^fmh579omuc6]: 학회 논문은 노력이 꽤 더 들고, 학계의 관행과 은어, 그리고 통과해야 할 여러 관문을 이해하는 사람과 함께 일하는 게 대체로 좋다. 하지만 특히 이제 막 시작해서 자격증명이 필요하다면 목표로 삼기 좋은 것이라고 본다. 다만 mech interp는 대부분의 학문 하위 분야보다 동료 심사를 덜 중시한다.
+
+[^f09vsa4w37e]: 스포트라이트 논문의 절반이 독립적인 심사위원단에서는 거절되었을 것임을 보여준 [이 NeurIPS 실험](https://blog.neurips.cc/2021/12/08/the-neurips-2021-consistency-experiment/)을 보라.
+
+[^7ruxx269r2s]: 내 생각에 이건 내가 MATS 스칼라들에게 해주는 가장 값진 일 중 하나다.
+
+[^slnwemz4grq]: 안타깝게도 표준적인 추천서 문화는, 특히 미국에서는 기본적으로 거짓말을 하는 것이고 거짓말의 정도가 맥락마다 달라서, 채용 담당자가 이해하는 문화적 맥락에서 온 것이거나 이상적으로는 그가 알고 신뢰하는 사람에게서 온 것이 아니면 추천서는 대체로 쓸모없어진다. 이것이 MATS 같은 AI 안전성 멘토링 프로그램이 대단히 값질 수 있는 이유 중 하나다. 멘토가 나중에 당신을 채용할 수도 있는 사람들을 아는 경우가 많고, 그러면 그들 관점에서 당신은 위험이 낮은 채용이 되기 때문이다.
 
