@@ -26,7 +26,7 @@
     - 매우 느린 스킬(수 개월): 좋은 연구 아이디어 만들어내기 등
   - **모든 스킬을 한꺼번에 배우려 하지** ***마라***. 빠른/중간 속도의 스킬에 먼저 집중하고, 천천히 범위를 넓혀라.
   - [연구의 4단계](https://www.alignmentforum.org/posts/hjMy4ZxS5ogA9cTYK/how-i-think-about-my-research-process-explore-understand): 아이디어 찾기(**ideation**) → 직관과 감 쌓기(**exploration**) → 가설 검증하기(**understanding**) → 다듬고 글로 정리하기(**distillation**)
-- [**2단계:**](#stage-2-practicing-research-with-mini-projects-미니-프로젝트로-연구-연습하기) **미니 프로젝트** (각 1~5일, 총 2~4주)
+- [**2단계:**](#stage-2-practicing-research-with-mini-projects-미니-프로젝트로-연구-연습하기) **미니 프로젝트** (각 1-5일, 총 2-4주)
   - [탐색(exploration) 마음가짐](#탐색-연습하기-practicing-exploration): **단위 시간당 정보 획득량을 최대화하라.** 막혔을 때 빠져나오는 법을 익혀라. 배우고 있기만 하다면 계획이 없어도 괜찮다.
   - [이해(understanding) 마음가짐](#이해-연습하기-practicing-understanding): **모든 연구 결과는 반증되기 전까지 거짓이다.** 결과가 흥미로울수록 거짓일 가능성이 높다. 스스로가 자신의 가장 혹독한 비판자가 되어라.
   - 아이디어의 질(ideation)과 글쓰기(distillation)는 아직 우선순위가 아니다. **안목과 우선순위 판단은 직접 해보면서 배우는 것이다.**
